@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/starry-comet/comet/master/resources/images/comet.svg"/>
-</p>
+![Image of Yaktocat](https://github.com/starry-comet/comet/blob/master/resources/images/comet.png?raw=true)
+
 Comet
 =======
